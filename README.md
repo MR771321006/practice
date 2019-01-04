@@ -6,10 +6,10 @@
   1.根据设计好的api添加相应的测试，测试中验证返回数据是否符合api期望
   
 ### 2.添加api
-1.在 `models.db_scheme` 中添加需要的 Model
-    2.在 `views.serializers` 中添加用于验证 api 数据数据的 serializer
-    3.在 `views.views` 中添加 api 处理视图类
-    4.在 `views.routers` 中添加 url 路由
+  1.在 `models.db_scheme` 中添加需要的 Model
+  <br>2.在 `views.serializers` 中添加用于验证 api 数据数据的 serializer</br>
+  3.在 `views.views` 中添加 api 处理视图类
+  4.在 `views.routers` 中添加 url 路由
 ### 3.添加文档
   1.文档中需要详细描述 `api` 的 `url path`, `url params`, `header`, `body`
 ### 4.测试
