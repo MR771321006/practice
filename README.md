@@ -11,7 +11,7 @@
   3. 在 `views.views` 中添加 api 处理视图类
   4. 在 `views.routers` 中添加 url 路由
 ### 3. 添加文档
-  1.文档中需要详细描述 `api` 的 `url path`, `url params`, `header`, `body`
+  1. 文档中需要详细描述 `api` 的 `url path`, `url params`, `header`, `body`
 ### 4. 测试
   1. 完善 `.drone.yml`
   2. 本地使用时, 添加本地配置 `configs/local_settings.py`, 运行 `python manage.py test --
