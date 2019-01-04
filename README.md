@@ -1,14 +1,14 @@
 # texas_holdem_record_sanic
 德州扑克术语表
 
-## 数据来源
-<http://thepokerlogic.com/glossary>
+## api开发流程
+### 1.添加测试
+  
+  1.根据设计好的api添加相应的测试，测试中验证返回数据是否符合api期望
+  
+### 2.添加api
+   1.在
 
-<https://www.pokerstars.com/zhs/poker/terms/>
-
-<https://zh.pokerstrategy.com/glossary/>
-
-<https://www.pk.cn/portal-glossary>
 
 # 启动步骤
 
