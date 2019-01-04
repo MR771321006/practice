@@ -14,7 +14,7 @@
   1. 文档中需要详细描述 api 的 `url path`, `url params`, `header`, `body`
 ### 4. 测试
   1. 完善 `.drone.yml`
-  2. 本地使用时, 添加本地配置 `configs/local_settings.py`, 运行 `python manage.py test --`<br>`config=local_settings` </br>进行测试
+  2. 本地使用时, 添加本地配置 `configs/local_settings.py`, 运行 `python manage.py test --`<br>`config=local_settings` 进行测试</br>
   3. 本地同步数据库: `python manage.py sync_db --config=local_settings`
   4. 本地启动服务器: `python manage.py runserver --config=local_settings`
 ### 5. 部署
