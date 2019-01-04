@@ -19,7 +19,7 @@
   4. 本地启动服务器: `python manage.py runserver --config=local_settings`
 ### 5. 部署
   1. 申请 sentry dsn, 配置到 `configs/__init__.py` 中
-  后续部署流程等待 k8s 使用流程确定好后完善
+   后续部署流程等待 k8s 使用流程确定好后完善
 # 如何使用
 
 ```
