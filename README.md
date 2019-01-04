@@ -1,5 +1,4 @@
 # texas_holdem_record_sanic
-#
 德州扑克术语表
 
 ## 数据来源
