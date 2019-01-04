@@ -15,12 +15,12 @@
 ### 4. 测试
   1. 完善 `.drone.yml`
   2. 本地使用时, 添加本地配置 `configs/local_settings.py`, 运行 `python manage.py test --`
-    `config=local_settings` 进行测试
+  `config=local_settings` 进行测试
   3. 本地同步数据库: `python manage.py sync_db --config=local_settings`
   4. 本地启动服务器: `python manage.py runserver --config=local_settings`
 ### 5. 部署
   1. 申请 sentry dsn, 配置到 `configs/__init__.py` 中
-    后续部署流程等待 k8s 使用流程确定好后完善
+  后续部署流程等待 k8s 使用流程确定好后完善
 # 如何使用
 
 ```
