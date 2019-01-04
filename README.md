@@ -1,5 +1,4 @@
 # texas_holdem_record_sanic
-德州扑克术语表
 
 ## api开发流程
 ### 1.添加测试
