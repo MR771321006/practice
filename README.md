@@ -28,7 +28,5 @@
 >docker-compose up -d
 >docker-compose exec backend bash
 ```
-# 进入 docker 以后, 运行 runserver.sh
-```
-./runserver.sh
-```
+## 进入 docker 以后, 运行 runserver.sh
+>./runserver.sh
