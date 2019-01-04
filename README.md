@@ -1,10 +1,8 @@
 # texas_holdem_record_sanic
 
 ## api 开发流程
-### 1. 添加测试
-  
+### 1. 添加测试 
   1. 根据设计好的 api 添加相应的测试，测试中验证返回数据是否符合 api 期望
-  
 ### 2. 添加 api
   1. 在 `models.db_scheme` 中添加需要的 Model
   2. 在 `views.serializers` 中添加用于验证 api 数据数据的 serializer
