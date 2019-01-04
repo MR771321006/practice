@@ -1,6 +1,6 @@
 # texas_holdem_record_sanic
 
-## api开发流程
+## api 开发流程
 ### 1. 添加测试
   
   1. 根据设计好的api添加相应的测试，测试中验证返回数据是否符合api期望
