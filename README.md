@@ -7,7 +7,7 @@
   
 ### 2.添加api
   1.在 `models.db_scheme` 中添加需要的 Model
-  <br>2.在 `views.serializers` 中添加用于验证 api 数据数据的 serializer</br>
+  2.在 `views.serializers` 中添加用于验证 api 数据数据的 serializer
   3.在 `views.views` 中添加 api 处理视图类
   4.在 `views.routers` 中添加 url 路由
 ### 3.添加文档
